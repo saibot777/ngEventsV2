@@ -1,7 +1,8 @@
-Instalation And Start
+Angular 2 Fundamentals Course
 ========================
-npm install
+This is the getting started package the Pluralsight course on Angular 2 Fundamentals found here: http://app.pluralsight.com/courses/angular2-fundamentals
 
-npm start
+**Course Status**
 
+The course is currently a work in progress
 
